@@ -1,0 +1,20 @@
+[
+  {
+    "host": "192.168.13.32",
+    "id": 2,
+    "key_path": "",
+    "name": "1\u53f7\u73af\u5883K8s\u8282\u70b9",
+    "password": "gAAAAABqBVtVTUX5SKFCo9msSwAkqO2P65EpEDHKgX1K9CA767K9cnAyfJDoo52MsL9s79v0uKWEgEmWrNiPT2htQxWliPV-nw==",
+    "port": 22,
+    "username": "ops"
+  },
+  {
+    "host": "192.168.13.90",
+    "id": 1,
+    "key_path": "",
+    "name": "2\u53f7\u73af\u5883K8s\u8282\u70b9",
+    "password": "gAAAAABqBVtV9V5Nz5fZwCT6p-VgsuikymoGDRsN7v72xwgcCkIiO0ODXdrKsEVGcVEl0EsTYlLPw9ELiXK6wSnurlYYEbs9mA==",
+    "port": 22,
+    "username": "ops"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "host": "192.168.13.215",
+    "id": 2,
+    "name": "1\u53f7-192.168.13.215",
+    "nginx_confs": [
+      {
+        "name": "IIS\u914d\u7f6e",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_iis.conf"
+      },
+      {
+        "name": "docker",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_docker.conf"
+      },
+      {
+        "name": "k8s",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_k8s.conf"
+      }
+    ],
+    "password": "gAAAAABqC7wB-U50yspCB7_Z2Qx4mjUmHyzyTqQqul1Sb-szVFQtvzW-fNs7J4ARP2XhtvWlLv2ZdhSAGmjuIpj_z4X28rULGA==",
+    "port": 22,
+    "username": "root"
+  },
+  {
+    "host": "192.168.13.217",
+    "id": 1,
+    "name": "2\u53f7-192.168.13.217",
+    "nginx_confs": [
+      {
+        "name": "IIS\u914d\u7f6e",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_iis.conf"
+      },
+      {
+        "name": "docker",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_docker.conf"
+      },
+      {
+        "name": "k8s",
+        "path": "/usr/local/nginx/conf/conf.d/upstreamserver/upstreamserver_k8s.conf"
+      }
+    ],
+    "password": "gAAAAABqC7wBPjQ43uHlaiLWeYRmWE0j52RM7nwgtXWx0r9bnTdes3HacdQvgPFKkb2sIJpZ8zKApOVsQeWpQCa6nG-MBNrqEQ==",
+    "port": 22,
+    "username": "root"
+  }
+]

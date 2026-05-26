@@ -1,0 +1,13 @@
+[
+  {
+    "conf_dir": "/etc/keepalived",
+    "host": "192.168.13.218000",
+    "id": 1,
+    "ip_prefix": "",
+    "key_path": "",
+    "name": "",
+    "password": "gAAAAABqDDEQFkTLTPbR0Uq5Fj0l7b0AflrRRQxTMqQdxLfchQt4lNHjncRFCyD0welLTy6UzVnc-QY56hKBWuM00y8z8obtYQ==",
+    "port": 22,
+    "username": "root"
+  }
+]

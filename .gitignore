@@ -1,0 +1,30 @@
+# Sensitive config
+.key
+*_servers.json
+data.db
+
+# Logs
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+.env.local
+
+# Codebuddy plans (contain internal infrastructure details)
+.codebuddy/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
