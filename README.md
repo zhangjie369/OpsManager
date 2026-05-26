@@ -114,7 +114,6 @@ nginx-manager/
 ## 安全注意
 
 - SSH 密码使用 Fernet 加密存储到 `*_servers.json`
-- 加密密钥 `.key` 已加入 `.gitignore`，不会提交到仓库
 - `*_servers.json` 已加入 `.gitignore`，需在各环境中自行配置
 - 生产环境请配置 HTTPS 和强密码
 - 扩缩容密码通过环境变量 `SCALE_AUTH_PASSWORD` 设置
